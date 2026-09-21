@@ -1,10 +1,19 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Colegio De Muntinlupa DVD-like Display
+# Colegio de Muntinlupa DVD-like Display
 
-- [Read the documentation for project](docs/info.md)
 
-## What is Tiny Tapeout?
+
+https://github.com/user-attachments/assets/0044cda6-583b-4e0a-b648-b146387e00fa
+
+
+
+## Layout
+
+<img width="817" height="630" alt="Screenshot 2026-09-21 at 3 06 54 PM" src="https://github.com/user-attachments/assets/7dc23617-075a-4631-b2f3-fc7680443a72" />
+
+Link to 3D Viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/CDM_display/tinytapeout.oas&pdk=ihp-sg13g2
+
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
 
